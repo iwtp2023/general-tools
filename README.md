@@ -1,2 +1,2 @@
-# general-tools
-Basic Tools for Computational Chemistry
+# General Tools
+Fundamental Python scripts for computational chemistry/data analysis workflows.
